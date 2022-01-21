@@ -11,5 +11,5 @@
 
 ## Reach me on 
 <p allign="center">
-  <a href="https://www.instagram.com/___bhagavath.sai____/"><img allign="cneter" src="https://www.flaticon.com/free-icon/instagram_2111463" alt="instagram profile __bhagavath.sai" height="40" width="40"></a>
+  <a href="https://www.instagram.com/___bhagavath.sai____/"><img allign="cneter" src="https://i.imgur.com/M6yBwxS.png" alt="instagram profile __bhagavath.sai" height="40" width="40"></a>
 </p>
